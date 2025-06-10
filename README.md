@@ -1,7 +1,7 @@
 # CS601 - Assignment 5: Inventory App
 
 ## 📄 Project Description
-This project is a modern React-based Inventory Management Application developed for METCS601 – Assignment 5. It enables a local grocery store named "Fresh Eats" to visually display a list of products "Inventory Items" including SKU, name, quantity, and price with a responsive and stylish interface. The app is fully client-side and uses ##React## and ##Vite## for fast performance and scalability.
+This project is a modern React-based Inventory Management Application developed for METCS601 – Assignment 5. It enables a local grocery store named "Fresh Eats" to visually display a list of products "Inventory Items" including SKU, name, quantity, and price with a responsive and stylish interface. The app is fully client-side and uses **React** and **Vite** for fast performance and scalability.
 
 ---
 
